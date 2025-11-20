@@ -1,2 +1,2 @@
 Nama Proyek Anda.
-projek gw https://github.com/Arsalla-cyber/CV-Arsalla-Jumanuar-Sintaka.git
+projek gw https://roadmap.sh/projects/single-page-cv
