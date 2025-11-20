@@ -1,11 +1,12 @@
-# Proyek CV - Arsalla Jumanuar Sintaka
-
-Ini adalah hasil pengerjaan tugas CV untuk [Sebutkan nama roadmap/instansi jika perlu].
+# CV Arsalla Jumanuar Sintaka (Tugas Roadmap.sh)
 
 ---
 
-## 🌐 Tautan Proyek Aktif (Live URL)
+## 🌐 Project URL / Live Demo
 
-Anda dapat melihat CV ini secara langsung (live demo) melalui tautan GitHub Pages di bawah:
+Ini adalah URL proyek yang dibutuhkan untuk verifikasi:
 
-[KLIK DI SINI UNTUK MELIHAT CV]cv.html
+**https://arsalla-cyber.github.io/CV-Arsalla-Jumanuar-Sintaka/**
+
+Atau klik tautan di bawah:
+[Lihat Live CV](https://arsalla-cyber.github.io/CV-Arsalla-Jumanuar-Sintaka/)
