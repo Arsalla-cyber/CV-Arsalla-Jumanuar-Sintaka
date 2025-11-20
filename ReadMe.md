@@ -8,4 +8,4 @@ Ini adalah hasil pengerjaan tugas CV untuk [Sebutkan nama roadmap/instansi jika 
 
 Anda dapat melihat CV ini secara langsung (live demo) melalui tautan GitHub Pages di bawah:
 
-[KLIK DI SINI UNTUK MELIHAT CV](https://arsalla-cyber.github.io/CV-Arsalla-Jumanuar-Sintaka/)
+[KLIK DI SINI UNTUK MELIHAT CV]cv.html
